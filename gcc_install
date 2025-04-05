@@ -1,0 +1,3 @@
+sudo apt-get update 
+sudo apt install gcc
+gcc    --version  // for verifying if gcc in install
