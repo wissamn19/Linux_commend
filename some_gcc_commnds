@@ -1,0 +1,17 @@
+gcc hello.c      // compile with only onecommand
+
+nano // modifiy
+
+touch // without modifiy 
+
+
+gcc -o hello  hello.c 
+
+gcc -o a.out hello.c  //compile with lien editor 
+
+make hello.c // create file make + bloc_note with command ( nano makefile )
+
+
+gcc -of f1.o f2.o // lien editor 
+
+./f1  // show 
